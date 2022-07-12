@@ -2,8 +2,8 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
+import node from "../assets/node.png";
+import mongodb from "../assets/mongodb.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 
@@ -41,15 +41,15 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: nextjs,
-      title: "Next JS",
-      style: "shadow-white",
+      src: node,
+      title: "Node JS",
+      style: "shadow-green-300",
     },
     {
       id: 7,
-      src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-500",
     },
     {
       id: 8,
@@ -62,7 +62,7 @@ const Experience = () => {
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
+      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen py-2"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>

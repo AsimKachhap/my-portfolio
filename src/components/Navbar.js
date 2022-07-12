@@ -10,24 +10,21 @@ const NavBar = () => {
       id: 1,
       link: "home",
     },
+   
     {
-        id: 2,
-        link: "download CV",
-      },
-    {
-      id: 3,
+      id: 2,
       link: "about",
     },
     {
-      id: 4,
+      id: 3,
       link: "portfolio",
     },
     {
-      id: 5,
+      id: 4,
       link: "experience",
     },
     {
-      id: 6,
+      id: 5,
       link: "contact",
     },
   ];

@@ -1,5 +1,4 @@
 import React from "react";
-import CV from "../assets/Resume/AsimResume.pdf";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
@@ -42,7 +41,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href:{CV},
+      href:"Asim's Resume.pdf",
       style: "rounded-br-md",
       download: true,
     },

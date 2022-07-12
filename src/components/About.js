@@ -14,23 +14,18 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          Hi, I am a Full Stack Developer gratuated from Motilal Nehru National Institute of Technology, Allahabad.
+          I love to build highly responsive web apps with modern UI design Concepts. I am always ready to learn
+          new Technologies and Skills and open for new adventures and experiences.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        I have the ability to adapt in both self-starting and collaborative enviroment
+         while staying focus on achieving high quality results under strict deadlines. I am eager to obtain
+          a challenging position at a prestigious company to expand my learning and build upon my
+           developer skills.
         </p>
       </div>
     </div>
